@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=SSapT&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=50&stroke=E0E0E0&strokeWidth=2&section=header&reversal=false&textBg=false)
+![header](https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12&text=SSapT&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=극강의%20T들의%20모임&descSize=22&descAlignY=68&section=header)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=극강의+T들의+모임;GCS+8기+김민성,+박성진,+신은지;Always+Learning+%26+Growing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=600&height=80&lines=극강의+T들의+모임+🧊;논리와+효율로+똘똘+뭉친+팀+SSapT;GCS+8기+김민성%2C+박성진%2C+신은지)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,24 +16,24 @@
       <a href="https://github.com/github_id1">
         <img src="https://github.com/github_id1.png" width="100px" style="border-radius:50%"/><br/>
       </a>
-      <b>홍길동</b><br/>
-      <img src="https://img.shields.io/badge/MBTI-ENFP-brightgreen?style=flat-square"/><br/>
+      <b>김민성</b><br/>
+      <img src="https://img.shields.io/badge/MBTI-INTJ-brightgreen?style=flat-square"/><br/>
       <img src="https://api.qrserver.com/v1/create-qr-code/?size=80x80&data=https://github.com/github_id1" width="80px"/>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/github_id2">
         <img src="https://github.com/github_id2.png" width="100px" style="border-radius:50%"/><br/>
       </a>
-      <b>홍길동</b><br/>
-      <img src="https://img.shields.io/badge/MBTI-INTJ-brightgreen?style=flat-square"/><br/>
+      <b>박성진</b><br/>
+      <img src="https://img.shields.io/badge/MBTI-ESTJ-brightgreen?style=flat-square"/><br/>
       <img src="https://api.qrserver.com/v1/create-qr-code/?size=80x80&data=https://github.com/github_id2" width="80px"/>
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/github_id3">
         <img src="https://github.com/github_id3.png" width="100px" style="border-radius:50%"/><br/>
       </a>
-      <b>홍길동</b><br/>
-      <img src="https://img.shields.io/badge/MBTI-ISFJ-brightgreen?style=flat-square"/><br/>
+      <b>신은지</b><br/>
+      <img src="https://img.shields.io/badge/MBTI-ENTJ-brightgreen?style=flat-square"/><br/>
       <img src="https://api.qrserver.com/v1/create-qr-code/?size=80x80&data=https://github.com/github_id3" width="80px"/>
     </td>
   </tr>
@@ -55,18 +55,18 @@
     <td align="center">
       <a href="https://github.com/github_id1">
         <img src="https://github.com/github_id1.png" width="80px" style="border-radius:50%"/><br/>
-        <b>홍길동</b>
+        <b>김민성</b>
       </a><br/><br/>
       <img src="https://api.qrserver.com/v1/create-qr-code/?size=80x80&data=https://github.com/github_id1" width="80px"/>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/MBTI-ENFP-brightgreen?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/MBTI-INTJ-brightgreen?style=for-the-badge"/>
     </td>
     <td>
       <b>🏫 학과</b><br/>
-      컴퓨터공학과<br/><br/>
+      경영학과<br/><br/>
       <b>👋 나를 소개하는 한 문장</b><br/>
-      저는 어쩌구 해서 이랬고, 이런 경험이 있구요!<br/><br/>
+      저는 어쩌구 해서 이랬고, 이런 경험이 있구요!
       <b>⚙️ 내가 일하는 방식</b><br/>
       앞으로 이래서 맥주를 좋아하고 이런 경험이 있구~~~~<br/><br/>
       <b>💪 자신만의 강점</b><br/>
@@ -83,16 +83,16 @@
     <td align="center">
       <a href="https://github.com/github_id2">
         <img src="https://github.com/github_id2.png" width="80px" style="border-radius:50%"/><br/>
-        <b>홍길동</b>
+        <b>박성진</b>
       </a><br/><br/>
       <img src="https://api.qrserver.com/v1/create-qr-code/?size=80x80&data=https://github.com/github_id2" width="80px"/>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/MBTI-INTJ-brightgreen?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/MBTI-ESTJ-brightgreen?style=for-the-badge"/>
     </td>
     <td>
       <b>🏫 학과</b><br/>
-      소프트웨어학과<br/><br/>
+      기계공학과<br/><br/>
       <b>👋 나를 소개하는 한 문장</b><br/>
       저는 이렇게 해서 이랬고, 이런 경험이 있구요!<br/><br/>
       <b>⚙️ 내가 일하는 방식</b><br/>
@@ -111,16 +111,16 @@
     <td align="center">
       <a href="https://github.com/github_id3">
         <img src="https://github.com/github_id3.png" width="80px" style="border-radius:50%"/><br/>
-        <b>홍길동</b>
+        <b>신은지</b>
       </a><br/><br/>
       <img src="https://api.qrserver.com/v1/create-qr-code/?size=80x80&data=https://github.com/github_id3" width="80px"/>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/MBTI-ISFJ-brightgreen?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/MBTI-ENTJ-brightgreen?style=for-the-badge"/>
     </td>
     <td>
       <b>🏫 학과</b><br/>
-      정보통신학과<br/><br/>
+      컴퓨터공학과<br/><br/>
       <b>👋 나를 소개하는 한 문장</b><br/>
       저는 저렇게 해서 이랬고, 이런 경험이 있구요!<br/><br/>
       <b>⚙️ 내가 일하는 방식</b><br/>
