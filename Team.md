@@ -1,8 +1,7 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12&text=SSapT&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=극강의%20T들의%20모임&descSize=22&descAlignY=68&section=header)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=600&height=80&lines=극강의+T들의+모임+🧊;논리와+효율로+똘똘+뭉친+팀+SSapT;GCS+8기+김민성%2C+박성진%2C+신은지)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=600&height=100&lines=극강의+T들의+모임+🧊;논리와+효율로+똘똘+뭉친+팀+SSapT;GCS+8기+김민성%2C+박성진%2C+신은지)](https://git.io/typing-svg)
 
 </div>
 
