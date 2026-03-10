@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🚀 팀명을 입력하세요
+![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=SSapT&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=50&stroke=E0E0E0&strokeWidth=2&section=header&reversal=false&textBg=false)
 
-> 팀 슬로건이나 한 줄 소개를 여기에 입력하세요
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=극강의+T들의+모임;GCS+8기+김민성,+박성진,+신은지;Always+Learning+%26+Growing)](https://git.io/typing-svg)
 
 </div>
 
