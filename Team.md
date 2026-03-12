@@ -7,13 +7,12 @@
 
 ---
 
-## 👥 팀원 소개
-
+👥 팀원 소개
 <table>
   <tr>
     <td align="center" width="33%">
       <a href="https://github.com/github_id1">
-        <img src="https://github.com/github_id1.png" width="100px" style="border-radius:50%"/><br/>
+        <img src="https://avatars.githubusercontent.com/u/266888813?v=4" width="100px" style="border-radius:50%"/><br/>
       </a>
       <b>김민성</b><br/>
       <img src="https://img.shields.io/badge/MBTI-INTJ-brightgreen?style=flat-square"/><br/>
@@ -21,7 +20,7 @@
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/github_id2">
-        <img src="https://github.com/github_id2.png" width="100px" style="border-radius:50%"/><br/>
+        <img src="https://avatars.githubusercontent.com/u/214237547?v=4" width="100px" style="border-radius:50%"/><br/>
       </a>
       <b>박성진</b><br/>
       <img src="https://img.shields.io/badge/MBTI-ESTJ-brightgreen?style=flat-square"/><br/>
@@ -29,7 +28,7 @@
     </td>
     <td align="center" width="33%">
       <a href="https://github.com/github_id3">
-        <img src="https://github.com/github_id3.png" width="100px" style="border-radius:50%"/><br/>
+        <img src="https://avatars.githubusercontent.com/u/159417728?v=4" width="100px" style="border-radius:50%"/><br/>
       </a>
       <b>신은지</b><br/>
       <img src="https://img.shields.io/badge/MBTI-ENTJ-brightgreen?style=flat-square"/><br/>
@@ -37,23 +36,20 @@
     </td>
   </tr>
 </table>
-
 ---
 
-## 📋 팀원 세부 정보
-
+📋 팀원 세부 정보
 <table>
   <tr>
     <th width="20%" align="center">팀원</th>
     <th width="15%" align="center">MBTI</th>
     <th width="65%" align="left">상세 정보</th>
   </tr>
-
   <!-- 팀원 1 -->
   <tr>
     <td align="center">
       <a href="https://github.com/github_id1">
-        <img src="https://github.com/github_id1.png" width="80px" style="border-radius:50%"/><br/>
+        <img src="https://avatars.githubusercontent.com/u/266888813?v=4" width="80px" style="border-radius:50%"/><br/>
         <b>김민성</b>
       </a><br/><br/>
       <img src="https://api.qrserver.com/v1/create-qr-code/?size=80x80&data=https://github.com/github_id1" width="80px"/>
@@ -76,12 +72,11 @@
       <code>#태그1</code> <code>#태그2</code> <code>#태그3</code>
     </td>
   </tr>
-
   <!-- 팀원 2 -->
   <tr>
     <td align="center">
       <a href="https://github.com/github_id2">
-        <img src="https://github.com/github_id2.png" width="80px" style="border-radius:50%"/><br/>
+        <img src="https://avatars.githubusercontent.com/u/214237547?v=4" width="80px" style="border-radius:50%"/><br/>
         <b>박성진</b>
       </a><br/><br/>
       <img src="https://api.qrserver.com/v1/create-qr-code/?size=80x80&data=https://github.com/github_id2" width="80px"/>
@@ -104,12 +99,11 @@
       <code>#태그1</code> <code>#태그2</code> <code>#태그3</code>
     </td>
   </tr>
-
   <!-- 팀원 3 -->
   <tr>
     <td align="center">
       <a href="https://github.com/github_id3">
-        <img src="https://github.com/github_id3.png" width="80px" style="border-radius:50%"/><br/>
+        <img src="https://avatars.githubusercontent.com/u/159417728?v=4" width="80px" style="border-radius:50%"/><br/>
         <b>신은지</b>
       </a><br/><br/>
       <img src="https://api.qrserver.com/v1/create-qr-code/?size=80x80&data=https://github.com/github_id3" width="80px"/>
@@ -131,6 +125,8 @@
       <b>🏷️ 키워드</b><br/>
       <code>#태그1</code> <code>#태그2</code> <code>#태그3</code>
     </td>
+  </tr>
+</table>
   </tr>
 
 </table>
